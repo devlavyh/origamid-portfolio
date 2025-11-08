@@ -2,7 +2,7 @@
 
 <img width="989" height="949" alt="Image" src="https://github.com/user-attachments/assets/48619d89-2ad0-41d4-b13d-cab93f64070a" />
 
-Este projeto é um portfólio pessoal desenvolvido como exercício prático do módulo "HTML e CSS para inciantes" e "UI Design para iniciantes" durante o curso de Desenvolvimento Front End e UX/UI Design da Origamid. Criado apenas para fins de estudo, o objetivo foi aplicar conceitos de estruturação com HTML, estilização com CSS e prototipado no Figma. O projeto explora a construção de layouts responsivos, tipografia, uso de ícones, organização de seções e boas práticas de design e usabilidade. 
+Este projeto é um portfólio pessoal desenvolvido como parte dos módulos “HTML e CSS para Iniciantes” e “UI Design para Iniciantes” do curso de Desenvolvimento Web da Origamid. Criado exclusivamente para fins de estudo, tem como objetivo aplicar conceitos fundamentais de estruturação com HTML, estilização com CSS e prototipagem no Figma. O projeto explora a criação de layouts responsivos, tipografia, organização de seções e boas práticas de design e usabilidade, resultando em uma interface funcional e visualmente coerente.
 
 ## 🌐 Visualize o projeto:
 
